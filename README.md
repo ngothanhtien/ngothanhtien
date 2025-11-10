@@ -14,11 +14,11 @@
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="70" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="70" height="40"/>
+  <img src="https://topdev.vn/blog/wp-content/uploads/2024/09/dart-la-gi-1.png" alt="csharp" width="70" height="40"/>
 </p>
 
 ### 🌐 Backend Development:
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="expressjs" width="70" height="60"/>
 </p>
 
@@ -31,8 +31,8 @@
 ### 🗄️ Database:
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="60"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvvMSjY5_IjIwisCJHZLgsahAPsuMnCgT7yg&s" alt="sqlite" width="100" height="60"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQMQv-evAorxfJSjiC0y_bhsN5KM4R0rHQRg&s" alt="mssql" width="100" height="60"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQMQv-evAorxfJSjiC0y_bhsN5KM4R0rHQRg&s" alt="mssql" width="100" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" alt="mssql" width="100" height="60"/>
 </p>
 
 ## 🌎 Connect with Me
@@ -41,4 +41,5 @@
 <a href="https://fb.com/thanhtien.ngo.921" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
 <a href="https://instagram.com/ng.ttieen_1406" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 </p>
+
 
