@@ -1,140 +1,147 @@
 <div align="center">
-  
-# 👋 Hello, I'm Thanh Tien
 
-### ⚡ Mobile Developer | Flutter Enthusiast | Backend Developer ⚡
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Mobile+Developer+from+Vietnam;Flutter+%26+Android+Specialist;Always+learning+new+things" alt="Typing SVG" />
+# Ngô Thành Tiến
+### 📱 Mobile Developer (Flutter & Android)
 
 ---
 
+> **"Turning ideas into elegant mobile apps & writing code that speaks for itself."**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thành-tiến-ngô-597ab8248)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngothanhtien1406@gmail.com)
+
 </div>
 
-## 🚀 About Me
+---
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-📍 **Location:** Vietnam 🇻🇳  
-💼 **Role:** Mobile Developer  
-💻 **Code:** Java • Dart • TypeScript  
-🎯 **Focus:** Building scalable mobile applications  
-😄 **Fun Fact:** I think I am funny and honest
-
-</td>
-<td width="50%">
-
-```dart
-class Developer {
-  String name = "Thanh Tien";
-  String role = "Mobile Developer";
-  List<String> skills = [
-    "Flutter",
-    "Android",
-    "Backend"
-  ];
-  
-  void code() => print("Let's build!");
-}
+```
+╔══════════════════════════════════════════════════════╗
+║         > Turning ideas into elegant mobile apps     ║
+║         > Writing code that speaks for itself        ║
+║         > Learning never stops                       ║
+╚══════════════════════════════════════════════════════╝
 ```
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## 💻 Tech Stack
+## 🧑‍💻 About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
+- 📍 Based in **Vietnam**
+- 💼 Working as a **Mobile Developer**, focused on Flutter & Android
+- 🎯 Passionate about building **scalable, clean, and user-friendly** mobile applications
+- 🌱 Currently deepening knowledge in **Flutter architecture & backend integration**
+- 🤝 Open to **collaborating** on interesting mobile or full-stack projects
+- ⚡ Fun fact: I think I'm funny — the compiler disagrees
 
-### 🎯 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+---
+
+## 🛠️ Tech Stack
+
+### 🔤 Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=dart,java,ts,js" height="48"/>
+</div>
 
 ### 📱 Mobile Development
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio" height="48"/>
+</div>
 
-</td>
-<td width="50%" valign="top">
-
-### 🔧 Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### ⚙️ Backend & Frameworks
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="48"/>
+</div>
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ngothanhtien&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="GitHub Stats" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ngothanhtien&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
-
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="48"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 </div>
 
+### 🔧 Tools & Environment
 <div align="center">
-  
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngothanhtien&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Top Languages" />
-
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" height="48"/>
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Analytics
 
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ngothanhtien&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ngothanhtien&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&icon_color=7B68EE&text_color=C9D1D9&count_private=true" />
+&nbsp;&nbsp;
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ngothanhtien&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B68EE&ring=7B68EE&fire=FF6B6B&currStreakLabel=7B68EE" />
+
+</div>
+
+<div align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngothanhtien&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7B68EE&text_color=C9D1D9&langs_count=6" />
 
 </div>
 
 ---
 
-## 📫 Connect With Me
+## 🏆 Achievements
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thành-tiến-ngô-597ab8248)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/thanhtien.ngo.921)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ng.ttieen_1406)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ngothanhtien1406@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ngothanhtien)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ngothanhtien&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ngothanhtien&bg_color=0D1117&color=7B68EE&line=7B68EE&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/thành-tiến-ngô-597ab8248">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>&nbsp;
+<a href="https://fb.com/thanhtien.ngo.921">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>&nbsp;
+<a href="https://instagram.com/ng.ttieen_1406">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>&nbsp;
+<a href="mailto:ngothanhtien1406@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>&nbsp;
+<a href="https://github.com/ngothanhtien">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
 <div align="center">
-  
-### 💭 Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
-### 👀 Profile Views
+<br/><br/>
 
-![](https://komarev.com/ghpvc/?username=ngothanhtien&color=00D9FF&style=flat-square&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=ngothanhtien&color=7B68EE&style=for-the-badge&label=PROFILE+VIEWS)
 
----
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,100:302b63&height=100&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
